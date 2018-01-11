@@ -1,0 +1,9 @@
+/*#login{*/
+    /*display: none;}*/
+#content{
+    height:400px;
+    border: 2px solid #ccc;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
